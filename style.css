@@ -176,9 +176,6 @@ body {
 .thirdpic {
     display: flex;
     justify-content: center;
-    .thirdpic {
-    display: flex;
-    justify-content: center;
     height: 100%;
     width: 100%;
     background-image: url(/assets/imgs/1358669.jpeg);
